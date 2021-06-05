@@ -1,10 +1,9 @@
 
 import firebase from "firebase/app"
 import "firebase/auth"
-import "firebase/firestore"
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAwvszWtHZU_fvp8bGnggQ3eTSw2djDV34",
+    apiKey: "AIzaSyA5Pc8pVZoeIxrWVwuZmT1KbVpCd5l_iT4",
     authDomain: "iottemphumid-67c9b.firebaseapp.com",
     databaseURL: "https://iottemphumid-67c9b-default-rtdb.firebaseio.com",
     projectId: "iottemphumid-67c9b",
