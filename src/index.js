@@ -12,7 +12,7 @@ import LandingPage from './pages/LandingPage';
 
 ReactDOM.render(
   <React.StrictMode>
-    <LandingPage />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

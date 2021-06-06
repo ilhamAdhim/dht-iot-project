@@ -1,4 +1,3 @@
-import { MDBListGroup, MDBListGroupItem } from 'mdbreact';
 import React from 'react';
 import Typist from 'react-typist';
 import { VIOLET_COLOR } from '../utils/colors';
